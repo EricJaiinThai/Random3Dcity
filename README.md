@@ -4,6 +4,7 @@ Random3Dcity
 A basic procedural modelling engine for generating random (synthetic) buildings and other features in CityGML in multiple levels of detail (LOD).
 
 ![Overview](http://filipbiljecki.com/code/img/R3-interior.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricJaiinThai%2FRandom3Dcity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricJaiinThai%2FRandom3Dcity?ref=badge_shield)
 
 
 Ready to use datasets
@@ -235,3 +236,6 @@ Acknowledgments
 + This research is supported by the Dutch Technology Foundation STW, which is part of the Netherlands Organisation for Scientific Research (NWO), and which is partly funded by the Ministry of Economic Affairs (project code: 11300).
 
 + People who gave suggestions and reported errors, especially Mickaël Brasebin (IGN France) for the suggestions to make the code compatible with Python3.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricJaiinThai%2FRandom3Dcity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricJaiinThai%2FRandom3Dcity?ref=badge_large)
